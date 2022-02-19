@@ -4,3 +4,10 @@
     border: 0;
     box-sizing: border-box;
 }
+
+h1, p {
+    border: 1px solid red;
+    background-color: blue;
+    padding: 10px;
+    max-width: 200px;
+}
